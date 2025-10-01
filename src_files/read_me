@@ -1,0 +1,1 @@
+For convenience, the source files (src) for the RSP models are included in this directory. This is because the default Clapeyron.jl source files do not contain specific equations, such as the Zuo and Furst RSP equations for methanol and ethanol.
