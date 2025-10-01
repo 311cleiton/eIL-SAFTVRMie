@@ -1,0 +1,39 @@
+Clapeyron Database File,
+Joback Groups [csvtype = groups,grouptype = Joback]
+species,groups
+C2MIM,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 1]"
+C4MIM,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 3]"
+C5MIM,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 4]"
+C6MIM,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 5]"
+C8MIM,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 7]"
+BF4,"[""B"" => 1,""-F"" => 4]"
+PF6,"[""P"" => 1,""-F"" => 6]"
+TF2N,"["">C<"" => 2,""-F"" => 6,"">N- (non-ring)"" => 1,""-S- (non-ring)"" => 2,""=O (other than above)"" => 4]"
+
+SCN,"[""-S- (non-ring)"" => 1,""-CN"" => 1]"
+TFO,"["">C<"" => 1,""-F"" => 3,""-O- (non-ring)"" => 1,""-S- (non-ring)"" => 1,""=O (other than above)"" => 2]"
+
+water_ours,"[""H2O"" => 1]"
+
+
+C4MIM_Cp,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 3]"
+BF4_Cp,"[""B"" => 1,""-F"" => 4]"
+
+
+ethane,"[""-CH3"" => 2]"
+water,"[""H2O"" => 1]"
+propane~|~n-propane,"[""-CH3"" => 2,""-CH2-"" => 1]"
+butane~|~n-butane,"[""-CH3"" => 2,""-CH2-"" => 2]"
+pentane~|~n-pentane,"[""-CH3"" => 2,""-CH2-"" => 3]"
+hexane~|~n-hexane,"[""-CH3"" => 2,""-CH2-"" => 4]"
+heptane~|~n-heptane,"[""-CH3"" => 2, ""-CH2-"" => 5]"
+octane~|~n-octane,"[""-CH3"" => 2, ""-CH2-"" => 6]"
+nonane~|~n-nonane,"[""-CH3"" => 2, ""-CH2-"" => 7]"
+decane~|~n-decane,"[""-CH3"" => 2, ""-CH2-"" => 8]"
+pentadecane~|~n-pentadecane,"[""-CH3"" => 2, ""-CH2-"" => 13]"
+eicosane~|~n-eicosane,"[""-CH3"" => 2, ""-CH2-"" => 18]"
+c25~|~pentacosane~|~n-pentacosane,"[""-CH3"" => 2, ""-CH2-"" => 23]"
+triacontane~|~n-triacontane,"[""-CH3"" => 2, ""-CH2-"" => 28]"
+methanol,"[""-CH3"" => 1, ""-OH (alcohol)"" => 1]"
+ethanol,"[""-CH3"" => 1,""-CH2-"" => 1, ""-OH (alcohol)"" => 1]"
+acetone~|~propanone,"[""-CH3"" => 2,"">C=O (non-ring)""=>1]"
